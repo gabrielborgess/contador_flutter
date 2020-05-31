@@ -17,7 +17,7 @@ class _ContadorPageState extends State<ContadorPage>{
 
       return Scaffold(
         appBar:AppBar(
-          title: Text("title"),
+          title: Text("Test"),
           centerTitle: true,
         ),
         body: Center(
